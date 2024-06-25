@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -10,7 +9,7 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/mechammatthew/)
+[linkedin]: https://www.linkedin.com/in/mechammatthew/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
