@@ -1,4 +1,4 @@
-<h1>Hi, I'm MAtt! <br/><a href="https://github.com/MatthewMecham32">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/mechammatthew/">Cybersecurity Professional</a>
+<h1>Hi, I'm MAtt! <br/> <a href="https://www.linkedin.com/in/mechammatthew/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
