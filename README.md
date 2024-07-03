@@ -1,7 +1,7 @@
 <h1>Hi, I'm Matt! <br/> <a href="https://www.linkedin.com/in/mechammatthew/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-- <b>Python</b>
+<h2>👨‍💻 Projects:</h2>
+- <a href="https://github.com/MatthewMecham32/Azure-SOC">Azure SOC</a>
 
 <h2> 🤳 Connect with me:</h2>
 
