@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 - <a href="https://github.com/MatthewMecham32/Azure-SOC">Azure SOC</a>
+- <a href="https://github.com/MatthewMecham32/Password_Gen_Locker">Password Generator and Locker</a>
 
 <h2> 🤳 Connect with me:</h2>
 
